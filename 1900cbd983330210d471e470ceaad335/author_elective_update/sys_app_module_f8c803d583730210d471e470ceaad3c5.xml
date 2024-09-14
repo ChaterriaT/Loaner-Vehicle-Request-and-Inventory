@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Vehicle Request and Inventory">4488cb9583730210d471e470ceaad38a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Loaner Vehicle Catalog</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-03 02:13:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f8c803d583730210d471e470ceaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Catalog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1426056_lva">1900cbd983330210d471e470ceaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">1900cbd983330210d471e470ceaad335</sys_scope>
+        <sys_update_name>sys_app_module_f8c803d583730210d471e470ceaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-03 02:13:18</sys_updated_on>
+        <timeline_page/>
+        <title>Loaner Vehicle Catalog</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">1900cbd983330210d471e470ceaad335</application>
+        <file_path/>
+        <instance_id>22050955dbda395c4162684e1396196b</instance_id>
+        <instance_name>dev202199</instance_name>
+        <name>sys_app_module_f8c803d583730210d471e470ceaad3c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Vehicle Request and Inventory">4488cb9583730210d471e470ceaad38a</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Loaner Vehicle Catalog</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-03 02:13:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f8c803d583730210d471e470ceaad3c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Vehicle Catalog</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1426056_lva">1900cbd983330210d471e470ceaad335</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">1900cbd983330210d471e470ceaad335</sys_scope><sys_update_name>sys_app_module_f8c803d583730210d471e470ceaad3c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-03 02:13:18</sys_updated_on><timeline_page/><title>Loaner Vehicle Catalog</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>488498519</payload_hash>
+        <record_name>Loaner Vehicle Catalog</record_name>
+        <reverted_from/>
+        <source>bbc1c39d83330210d471e470ceaad3a4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-03 02:13:18</sys_created_on>
+        <sys_id>79e803d583730210d471e470ceaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191160344dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-03 02:13:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bde803d5ce730210bf2bd8668e2310ea</update_guid>
+        <update_guid_history>bde803d5ce730210bf2bd8668e2310ea:488498519</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Catalog">31ba075983730210d471e470ceaad3ac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-03 02:21:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5aee23b4a8094504a640b7d56134f1c4</sys_id>
+        <sys_metadata>f8c803d583730210d471e470ceaad3c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Catalog</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1426056_lva">1900cbd983330210d471e470ceaad335</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">1900cbd983330210d471e470ceaad335</sys_scope>
+        <sys_scope_delete display_value="">56fe755651954b18817433c5a7497024</sys_scope_delete>
+        <sys_update_name>sys_app_module_f8c803d583730210d471e470ceaad3c5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f8c803d583730210d471e470ceaad3c5">79e803d583730210d471e470ceaad3eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-03 02:21:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

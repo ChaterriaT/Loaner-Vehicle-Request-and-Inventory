@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Single Icon Menu">5edf4c21cb21020000f8d856634c9cba</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 00:08:03</sys_created_on>
+        <sys_id>472263f583601610d471e470ceaad3c7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Rental Hero Menu</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1426056_lva">1900cbd983330210d471e470ceaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">1900cbd983330210d471e470ceaad335</sys_scope>
+        <sys_update_name>sp_instance_menu_472263f583601610d471e470ceaad3c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 02:50:04</sys_updated_on>
+        <title>Rental Hero Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=472263f583601610d471e470ceaad3c7"/>
+</record_update>
